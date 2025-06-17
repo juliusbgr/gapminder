@@ -1,4 +1,4 @@
-# Gapminder Bubble Chart Dashboard
+# Gapminder Dashboard
 
 An interactive Streamlit dashboard visualizing Life Expectancy, Population, and GNI per Capita (PPP) over time using Gapminder data. Features an animated bubble chart with multi-country selection and year slider.
 
